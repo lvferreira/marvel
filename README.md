@@ -1,4 +1,4 @@
-QANinja_Marvel-API
+# Marvel-API | Semana da Automação | QANinja | 
 
 In this project you can see what I've learned in the Automation Week; 3 days of online free training provided by QA Ninja Academy.
 
